@@ -16,12 +16,14 @@ Coming Soon...
 Installing GOATOOLs
 -------------------
 
-Coming Soon...
+pip/pip3 install goatools.
+
 
 GOATOOLS QuickStart
 -------------------
 
-Coming Soon...
+import goatools
+
 
 
 Indices and tables
