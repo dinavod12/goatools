@@ -16,7 +16,7 @@ Coming Soon...
 Installing GOATOOLs
 -------------------
 
-Coming Soon...
+pip install goatools
 
 GOATOOLS QuickStart
 -------------------
